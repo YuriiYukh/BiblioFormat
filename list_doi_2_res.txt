@@ -1,0 +1,102 @@
+1. 
+2. 
+3. 
+4. Sensor Fusion and Smart Sensor in Sports and Biomedical Applications / J. M. Jr., M. Vieira, M. Pires, S. S. Jr. // Sensors. - 2016. - Vol. 16, N. 10. - P. 1569. - DOI: 10.3390/s16101569
+5. 
+6. Conductive polymers for smart textile applications / A. M. Grancaric, I. Jerkovic, V. Koncar [at el.] // Journal of Industrial Textiles. - 2017. - Vol. 48, N. 3. - P. 612--642. - DOI: 10.1177/1528083717699368
+7. Review on Smart Electro-Clothing Systems (SeCSs) / A. S. M. Sayem, S. H. Teay, H. Shahariar [at el.] // Sensors. - 2020. - Vol. 20, N. 3. - P. 587. - DOI: 10.3390/s20030587
+8. Cherenack K. Smart textiles: Challenges and opportunities / K. Cherenack, L. Pieterson // Journal of Applied Physics. - 2012. - Vol. 112, N. 9. - P. 091301. - DOI: 10.1063/1.4742728
+9. Easy-to-Build Textile Pressure Sensor / F. Pizarro, P. Villavicencio, D. Yunge [at el.] // Sensors. - 2018. - Vol. 18, N. 4. - P. 1190. - DOI: 10.3390/s18041190
+10. 
+11. 
+12. 
+13. Evaluating the Sensoria Smart Socks Gait Monitoring System for Rehabilitation Outcomes / J. Yeung, D. Catolico, N. Fullmer [at el.] // PM&R. - 2019. - Vol. 11, N. 5. - P. 512--521. - DOI: 10.1002/pmrj.12003
+14. PEDOT:PSS: From conductive polymers to sensors / X. Zhang, W. Yang, H. Zhang [at el.] // Nanotechnology and Precision Engineering. - 2021. - Vol. 4, N. 4. - P. 045004. - DOI: 10.1063/10.0006866
+15. Smart Textiles and Sensorized Garments for Physiological Monitoring: A Review of Available Solutions and Techniques / A. Angelucci, M. Cavicchioli, I. A. Cintorrino [at el.] // Sensors. - 2021. - Vol. 21, N. 3. - P. 814. - DOI: 10.3390/s21030814
+16. Rothmaier M. Textile Pressure Sensor Made of Flexible Plastic Optical Fibers / M. Rothmaier, M. Luong, F. Clemens // Sensors. - 2008. - Vol. 8, N. 7. - P. 4318--4329. - DOI: 10.3390/s8074318
+17. Kirstein T. The future of smart-textiles development: new enabling technologies, commercialization and market trends / T. Kirstein // . - 2013. - Vol. . - P. 1--25. - DOI: 10.1533/9780857093530.1
+18. Ruckdashel R. R. Smart textiles: A toolkit to fashion the future / R. R. Ruckdashel, D. Venkataraman, J. H. Park // Journal of Applied Physics. - 2021. - Vol. 129, N. 13. - P. 130903. - DOI: 10.1063/5.0024006
+19. Wearable Fiber Optic Technology Based on Smart Textile: A Review / Z. Gong, Z. Xiang, X. OuYang [at el.] // Materials. - 2019. - Vol. 12, N. 20. - P. 3311. - DOI: 10.3390/ma12203311
+20. Smart E-Textile Systems: A Review for Healthcare Applications / S. u. Zaman, X. Tao, C. Cochrane, V. Koncar // Electronics. - 2021. - Vol. 11, N. 1. - P. 99. - DOI: 10.3390/electronics11010099
+21. A Review of Wearable Solutions for Physiological and Emotional Monitoring for Use by People with Autism Spectrum Disorder and Their Caregivers / M. Taj-Eldin, C. Ryan, B. O'Flynn, P. Galvin // Sensors. - 2018. - Vol. 18, N. 12. - P. 4271. - DOI: 10.3390/s18124271
+22. Smart watches: A review of evolution in bio-medical sector / R. S. Chandel, S. Sharma, S. Kaur [at el.] // Materials Today: Proceedings. - 2022. - Vol. 50. - P. 1053--1066. - DOI: 10.1016/j.matpr.2021.07.460
+23. Smart Watch Potential to Support Augmented Cognition for Health-Related Decision Making / B. Reeder, P. F. Cook, P. M. Meek, M. Ozkaynak // . - 2017. - Vol. . - P. 372--382. - DOI: 10.1007/978-3-319-58628-1_29
+24. 
+25. Smartwatch-based detection of cardiac arrhythmias: Beyond the differentiation between sinus rhythm and atrial fibrillation / M. Strik, S. Ploux, F. D. Ramirez [at el.] // Heart Rhythm. - 2021. - Vol. 18, N. 9. - P. 1524--1532. - DOI: 10.1016/j.hrthm.2021.06.1176
+26. Diagnostic Accuracy of Smartwatches for the Detection of Cardiac Arrhythmia: Systematic Review and Meta-analysis / S. Nazarian, K. Lam, A. Darzi, H. Ashrafian // Journal of Medical Internet Research. - 2021. - Vol. 23, N. 8. - P. e28974. - DOI: 10.2196/28974
+27. Detecting Bipolar Depression From Geographic Location Data / N. Palmius, A. Tsanas, K. E. A. Saunders [at el.] // IEEE Transactions on Biomedical Engineering. - 2017. - Vol. 64, N. 8. - P. 1761--1771. - DOI: 10.1109/tbme.2016.2611862
+28. error
+29. Motion Artifact Reduction in Wearable Photoplethysmography Based on Multi-Channel Sensors with Multiple Wavelengths / J. Lee, M. Kim, H. Park, I. Y. Kim // Sensors. - 2020. - Vol. 20, N. 5. - P. 1493. - DOI: 10.3390/s20051493
+30. Multi-wavelength photoplethysmography method for skin arterial pulse extraction / J. Liu, B. P. Yan, W. Dai [at el.] // Biomedical Optics Express. - 2016. - Vol. 7, N. 10. - P. 4313. - DOI: 10.1364/boe.7.004313
+31. 
+32. Validation of a wearable cuff-less wristwatch-type blood pressure monitoring device / J. H. Moon, M. Kang, C. Choi [at el.] // Scientific Reports. - 2020. - Vol. 10, N. 1. - P. . - DOI: 10.1038/s41598-020-75892-y
+33. Accuracy of Vital Signs Measurements by a Smartwatch and a Portable Health Device: Validation Study / C. Hahnen, C. G. Freeman, N. Haldar [at el.] // JMIR mHealth and uHealth. - 2020. - Vol. 8, N. 2. - P. e16811. - DOI: 10.2196/16811
+34. Sharma M. A Brief Introduction and Review on Galvanic Skin Response / M. Sharma, S. Kacker, M. Sharma // International Journal of Medical Research Professionals. - 2016. - Vol. 2, N. 6. - P. . - DOI: 10.21276/ijmrp.2016.2.6.003
+35. 
+36. Making Wearable Technology Available for Mental Healthcare through an Online Platform with Stress Detection Algorithms: The Carewear Project / G. Debard, N. D. Witte, R. Sels [at el.] // Journal of Sensors. - 2020. - Vol. 2020. - P. 1--15. - DOI: 10.1155/2020/8846077
+37. Affanni A. Wireless Sensors System for Stress Detection by Means of ECG and EDA Acquisition / A. Affanni // Sensors. - 2020. - Vol. 20, N. 7. - P. 2026. - DOI: 10.3390/s20072026
+38. Banganho A. R. Design and Evaluation of an Electrodermal Activity Sensor (EDA) With Adaptive Gain / A. R. Banganho, M. B. d. Santos, H. P. d. Silva // IEEE Sensors Journal. - 2021. - Vol. 21, N. 6. - P. 8639--8649. - DOI: 10.1109/jsen.2021.3050875
+39. Siirtola P. Continuous stress detection using the sensors of commercial smartwatch / P. Siirtola // . - 2019. - Vol. . - P. . - DOI: 10.1145/3341162.3344831
+40. Sensors and Functionalities of Non-Invasive Wrist-Wearable Devices: A Review / A. Kamisalic, I. Fister, M. Turkanovic, S. Karakati\vc // Sensors. - 2018. - Vol. 18, N. 6. - P. 1714. - DOI: 10.3390/s18061714
+41. Angelides M. C. Wearable data analysis, visualisation and recommendations on the go using android middleware / M. C. Angelides, L. A. C. Wilson, P. L. B. Echeverr\'\ia // Multimedia Tools and Applications. - 2018. - Vol. 77, N. 20. - P. 26397--26448. - DOI: 10.1007/s11042-018-5867-y
+42. 
+43. 
+44. 
+45. 
+46. 
+47. 
+48. Smart Protective Clothing for Law Enforcement Personnel / M. Reiffenrath, M. Hoerr, T. Gries, S. Jockenhoevel // Materials Science. Textile and Clothing Technology. - 2015. - Vol. 9. - P. 64. - DOI: 10.7250/mstct.2014.010
+49. Scataglini S. A Review of Smart Clothing in Military / S. Scataglini, G. Andreoni, J. Gallant // . - 2015. - Vol. . - P. . - DOI: 10.1145/2753509.2753520
+50. 
+51. FlexiGuard: Modular biotelemetry system for military applications / J. Schlenker, V. Socha, P. Smrcka [at el.] // . - 2015. - Vol. . - P. . - DOI: 10.1109/miltechs.2015.7153712
+52. error
+53. Rajsp A. A Systematic Literature Review of Intelligent Data Analysis Methods for Smart Sport Training / A. Rajsp, I. Fister // Applied Sciences. - 2020. - Vol. 10, N. 9. - P. 3013. - DOI: 10.3390/app10093013
+54. Rajsp A. A Systematic Literature Review of Intelligent Data Analysis Methods for Smart Sport Training / A. Rajsp, I. Fister // Applied Sciences. - 2020. - Vol. 10, N. 9. - P. 3013. - DOI: 10.3390/app10093013
+55. Ray P. P. An IR Sensor Based Smart System to Approximate Core Body Temperature / P. P. Ray // Journal of Medical Systems. - 2017. - Vol. 41, N. 8. - P. . - DOI: 10.1007/s10916-017-0770-z
+56. 
+57. error
+58. Heat Strain Decision Aid (HSDA): Review of input ranges, default values, and example inputs and outputs for verification of external implementation / A. W. Potter, D. P. Looney, J. W. Hancoc [at el.] // . - . - Vol. . - P. . - DOI: 10.13140/RG.2.2.15718.96324
+59. A Novel 12-Lead ECG T-Shirt with Active Electrodes / A. Boehm, X. Yu, W. Neu [at el.] // Electronics. - 2016. - Vol. 5, N. 4. - P. 75. - DOI: 10.3390/electronics5040075
+60. A wearable textile for respiratory monitoring: Feasibility assessment and analysis of sensors position on system response / D. L. Presti, C. Massaroni, P. Saccomandi [at el.] // . - 2017. - Vol. . - P. . - DOI: 10.1109/embc.2017.8037837
+61. Smart textile for respiratory monitoring and thoraco-abdominal motion pattern evaluation / C. Massaroni, C. Venanzi, A. P. Silvatti [at el.] // Journal of Biophotonics. - 2018. - Vol. 11, N. 5. - P. e201700263. - DOI: 10.1002/jbio.201700263
+62. Smart Shirts for Monitoring Physiological Parameters: Scoping Review / H. Khundaqji, W. Hing, J. Furness, M. Climstein // JMIR mHealth and uHealth. - 2020. - Vol. 8, N. 5. - P. e18092. - DOI: 10.2196/18092
+63. error
+64. Pervasive embedded systems for detection of traumatic brain injury / A. M. Cheriyan, A. O. Jarvi, Z. Kalbarczyk [at el.] // . - 2009. - Vol. . - P. . - DOI: 10.1109/icme.2009.5202849
+65. Huang C. Traumatic brain injury risk assessment with smart technology / C. Huang, R. H. Huang, B. Y. Majid // The Journal of Defense Modeling and Simulation: Applications. - 2021. - Vol. . - P. 154851292110085. - DOI: 10.1177/15485129211008529
+66. Gupta R. K. Mathematical Models of Blast-Induced TBI: Current Status, Challenges, and Prospects / R. K. Gupta, A. Przekwas // Frontiers in Neurology. - 2013. - Vol. 4. - P. . - DOI: 10.3389/fneur.2013.00059
+67. Review of wearable technologies and machine learning methodologies for systematic detection of mild traumatic brain injuries / W. Schmid, Y. Fan, T. Chi [at el.] // Journal of Neural Engineering. - 2021. - Vol. 18, N. 4. - P. 041006. - DOI: 10.1088/1741-2552/ac1982
+68. Biomarkers and Detection Platforms for Human Health and Performance Monitoring: A Review / D. Sim, M. C. Brothers, J. M. Slocik [at el.] // Advanced Science. - 2022. - Vol. 9, N. 7. - P. 2104426. - DOI: 10.1002/advs.202104426
+69. Bandodkar A. J. Non-invasive wearable electrochemical sensors: a review / A. J. Bandodkar, J. Wang // Trends in Biotechnology. - 2014. - Vol. 32, N. 7. - P. 363--371. - DOI: 10.1016/j.tibtech.2014.04.005
+70. Xu C. Skin-Interfaced Sensors in Digital Medicine: from Materials to Applications / C. Xu, Y. Yang, W. Gao // Matter. - 2020. - Vol. 2, N. 6. - P. 1414--1445. - DOI: 10.1016/j.matt.2020.03.020
+71. A wearable chemical\textendashelectrophysiological hybrid biosensing system for real-time health and fitness monitoring / S. Imani, A. J. Bandodkar, A. M. V. Mohan [at el.] // Nature Communications. - 2016. - Vol. 7, N. 1. - P. . - DOI: 10.1038/ncomms11650
+72. Thread-based multiplexed sensor patch for real-time sweat monitoring / T. Terse-Thakoor, M. Punjiya, Z. Matharu [at el.] // npj Flexible Electronics. - 2020. - Vol. 4, N. 1. - P. . - DOI: 10.1038/s41528-020-00081-w
+73. 
+74. 
+75. Smart Patch for Skin Temperature: Preliminary Study to Evaluate Psychometrics and Feasibility / H. Kim, S. Kim, M. Lee [at el.] // Sensors. - 2021. - Vol. 21, N. 5. - P. 1855. - DOI: 10.3390/s21051855
+76. High sensitivity flexible paper temperature sensor and body-attachable patch for thermometers / J. Lee, Y. Choi, J. Jang [at el.] // Sensors and Actuators A: Physical. - 2020. - Vol. 313. - P. 112205. - DOI: 10.1016/j.sna.2020.112205
+77. Efficient Skin Temperature Sensor and Stable Gel-Less Sticky ECG Sensor for a Wearable Flexible Healthcare Patch / Y. Yamamoto, D. Yamamoto, M. Takada [at el.] // Advanced Healthcare Materials. - 2017. - Vol. 6, N. 17. - P. 1700495. - DOI: 10.1002/adhm.201700495
+78. Flexible Temperature Sensors / R. Liu, L. He, M. Cao [at el.] // Frontiers in Chemistry. - 2021. - Vol. 9. - P. . - DOI: 10.3389/fchem.2021.539678
+79. Printable, Highly Sensitive Flexible Temperature Sensors for Human Body Temperature Monitoring: A Review / Y. Su, C. Ma, J. Chen [at el.] // Nanoscale Research Letters. - 2020. - Vol. 15, N. 1. - P. . - DOI: 10.1186/s11671-020-03428-4
+80. A Novel Wearable Device for Continuous Temperature Monitoring & Fever Detection / N. Verma, I. Haji-Abolhassani, S. Ganesh [at el.] // IEEE Journal of Translational Engineering in Health and Medicine. - 2021. - Vol. 9. - P. 1--7. - DOI: 10.1109/jtehm.2021.3098127
+81. 
+82. 
+83. 
+84. 
+85. 
+86. 
+87. 
+88. Bihemispheric Leftward Bias in a Visuospatial Attention-Related Network / T. Siman-Tov, A. Mendelsohn, T. Schonberg [at el.] // Journal of Neuroscience. - 2007. - Vol. 27, N. 42. - P. 11271--11278. - DOI: 10.1523/jneurosci.0599-07.2007
+89. A review of using eye-tracking technology in exploring learning from 2000 to 2012 / M. Lai, M. Tsai, F. Yang [at el.] // Educational Research Review. - 2013. - Vol. 10. - P. 90--115. - DOI: 10.1016/j.edurev.2013.10.001
+90. Armstrong T. Eye tracking of attention in the affective disorders: A meta-analytic review and synthesis / T. Armstrong, B. O. Olatunji // Clinical Psychology Review. - 2012. - Vol. 32, N. 8. - P. 704--723. - DOI: 10.1016/j.cpr.2012.09.004
+91. Multimodal Smart Eyewear for Longitudinal Eye Movement Tracking / S. Z. Homayounfar, S. Rostaminia, A. Kiaghadi [at el.] // Matter. - 2020. - Vol. 3, N. 4. - P. 1275--1293. - DOI: 10.1016/j.matt.2020.07.030
+92. Singh G. Perception of Departmental Heads and Chief Executives towards Hospital HR Management Issues: A Comparison of Public and Private Hospitals in India / G. Singh, A. Singh, S. Singh // International Journal of Human Resource Studies. - 2012. - Vol. 2, N. 3. - P. 46. - DOI: 10.5296/ijhrs.v2i3.2217
+93. error
+94. error
+95. 
+96. Lim J. Z. Emotion Recognition Using Eye-Tracking: Taxonomy, Review and Current Challenges / J. Z. Lim, J. Mountstephens, J. Teo // Sensors. - 2020. - Vol. 20, N. 8. - P. 2384. - DOI: 10.3390/s20082384
+97. 
+98. Beach P. Eye tracking methodology for studying teacher learning: a review of the research / P. Beach, J. McConnel // International Journal of Research & Method in Education. - 2018. - Vol. 42, N. 5. - P. 485--501. - DOI: 10.1080/1743727x.2018.1496415
+99. 
+100. Electrically conductive filament for 3D-printed circuits and sensors / S. W. Kwok, K. H. H. Goh, Z. D. Tan [at el.] // Applied Materials Today. - 2017. - Vol. 9. - P. 167--175. - DOI: 10.1016/j.apmt.2017.07.001
+101. Chatterjee K. 3D Printing of Textiles: Potential Roadmap to Printing with Fibers / K. Chatterjee, T. K. Ghosh // Advanced Materials. - 2019. - Vol. 32, N. 4. - P. 1902086. - DOI: 10.1002/adma.201902086
+102. 
